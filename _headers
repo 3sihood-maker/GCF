@@ -1,0 +1,4 @@
+/a/*
+  Cache-Control: public, max-age=604800
+/img/*
+  Cache-Control: public, max-age=604800
